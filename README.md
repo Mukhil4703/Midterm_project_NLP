@@ -23,9 +23,9 @@ Three CNN architectures were tested:
 
 | Model   | Training Accuracy | Validation Accuracy | Test Accuracy |
 | ------- | ----------------- | ------------------- | ------------- |
-| Model 1 | 67.71%            | 67.63%              | 69.98%        |
-| Model 2 | 71.83%            | 70.21%              | 72.15%        |
-| Model 3 | 73.52%            | 69.98%              | 74.30%        |
+| Model 1 | 73.52%            | 67.63%              | 69.98%        |
+| Model 2 | 95.51%            | 70.21%              | 72.15%        |
+| Model 3 | 93.52%            | 79.98%              | 83.04%        |
 
 ## Installation & Usage
 
